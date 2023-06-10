@@ -1,5 +1,5 @@
 {
-  "name": "medblue",
+  "name": "FetchLctnByPincode",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^9.3.10",
+    "axios": "^1.4.0",
+    "mathjs": "^11.8.0",
     "react": "18.2.0",
     "react-native": "0.71.9"
   },

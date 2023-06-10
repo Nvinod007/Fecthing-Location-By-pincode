@@ -1,0 +1,49 @@
+// by pincode fetching tha data
+
+[
+  {
+    "place_id": 301468699,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+    "boundingbox": [
+      "14.256863741667",
+      "14.576863741667",
+      "79.8000372875",
+      "80.1200372875"
+    ],
+    "lat": "14.416863741666665",
+    "lon": "79.9600372875",
+    "display_name": "Nellore, Sri Potti Sriramulu Nellore, Andhra Pradesh, 524004, India",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.33499999999999996
+  }
+]
+
+// by lat and lon 
+
+{
+  "place_id": 173448667,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 279714255,
+  "lat": "14.416861237813764",
+  "lon": "79.96003912600274",
+  "display_name": "Vedayapalem, Nellore, Sri Potti Sriramulu Nellore, Andhra Pradesh, 524004, India",
+  "address": {
+    "suburb": "Vedayapalem",
+    "city": "Nellore",
+    "county": "Nellore",
+    "state_district": "Sri Potti Sriramulu Nellore",
+    "state": "Andhra Pradesh",
+    "ISO3166-2-lvl4": "IN-AP",
+    "postcode": "524004",
+    "country": "India",
+    "country_code": "in"
+  },
+  "boundingbox": [
+    "14.4145524",
+    "14.4174238",
+    "79.9596862",
+    "79.9608754"
+  ]
+}
